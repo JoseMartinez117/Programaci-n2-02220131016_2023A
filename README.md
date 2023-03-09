@@ -3,3 +3,5 @@ Solución taller#1: https://github.com/JoseMartinez117/Programacion2-02220131016
 
 
 Solucion taller ejercicioes basicos 24_02_2023: https://github.com/JoseMartinez117/Taller24-02-2023/tree/main/src/ejerciciosbasicos24_02_2023
+
+Solucion taller ejercicios basicos 25_02_2023: https://github.com/JoseMartinez117/EjerciciosBasicos25_02_2023
