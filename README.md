@@ -7,3 +7,5 @@ Solucion taller ejercicioes basicos 24_02_2023: https://github.com/JoseMartinez1
 Solucion taller ejercicios basicos 25_02_2023: https://github.com/JoseMartinez117/EjerciciosBasicos25_02_2023
 
 Ejercicios Parcial#1: https://github.com/JoseMartinez117/EjerciciosParcial1
+
+Taller#1 Corte #2: https://github.com/JoseMartinez117/Taller1_P2_Atributos-y-clases
