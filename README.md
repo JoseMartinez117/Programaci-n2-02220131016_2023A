@@ -1,6 +1,7 @@
 # Programacion2-02220131016_2023A
 
 <---------------------------------"PRIMER CORTE"--------------------------------------->
+
 Solución taller#1: https://github.com/JoseMartinez117/Programacion2-02220131016_2023A/commit/7d431c8998faf29ed7691798cddec3fd19f40abb#diff-2448d3012bd317a83559dc584165a9fe29151335089948f756904c99cace4844
 
 
@@ -10,6 +11,7 @@ Solucion taller ejercicios basicos 25_02_2023: https://github.com/JoseMartinez11
 
 
 <---------------------------------"SEGUNDO CORTE"--------------------------------------->
+
 Ejercicios Parcial#1: https://github.com/JoseMartinez117/EjerciciosParcial1
 
 Taller#1 Corte #2: https://github.com/JoseMartinez117/Taller1_P2_Atributos-y-clases
