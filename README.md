@@ -1,6 +1,7 @@
 # Programacion2-02220131016_2023A
 
 ---------------------------------"PRIMER CORTE"---------------------------------------
+
 Inicio: 
 
 Solución taller#1: Arriba ↥
@@ -19,5 +20,6 @@ Taller#1 Corte #2: https://github.com/JoseMartinez117/Taller1_P2_Atributos-y-cla
 
 Taller#2 Corte #2:
 -Cine: https://github.com/JoseMartinez117/Taller2_P2_Cine
+
 -SuperMercado: https://github.com/JoseMartinez117/Taller2_P2_Supermercado
 
