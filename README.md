@@ -12,6 +12,7 @@ Solucion taller ejercicios basicos 25_02_2023: https://github.com/JoseMartinez11
 
 
 ---------------------------------"SEGUNDO CORTE"---------------------------------------
+
 Inicio:
 
 Ejercicios Parcial#1: https://github.com/JoseMartinez117/EjerciciosParcial1
