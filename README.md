@@ -24,7 +24,5 @@ Taller#2 Corte #2:
 
 -SuperMercado: https://github.com/JoseMartinez117/Taller2_P2_Supermercado
 
-Taller#3 Corte #2:
-
-https://github.com/JoseMartinez117/PolimorfismoFiguras
+Taller#3 Corte #2: https://github.com/JoseMartinez117/PolimorfismoFiguras
 
