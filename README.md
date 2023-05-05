@@ -26,3 +26,8 @@ Taller#2 Corte #2:
 
 Taller#3 Corte #2: https://github.com/JoseMartinez117/PolimorfismoFiguras
 
+---------------------------------"TERCER CORTE"---------------------------------------
+Inicio:
+
+
+Ejercicio Correcion Parcia: https://github.com/JoseMartinez117/CorreccionParcialP2
