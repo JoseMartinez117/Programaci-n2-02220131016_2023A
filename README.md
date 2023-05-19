@@ -32,3 +32,7 @@ Inicio:
 
 
 Ejercicio Correcion Parcia: https://github.com/JoseMartinez117/CorreccionParcialP2
+
+Repaso try catch: https://github.com/JoseMartinez117/RepasoTryCatch
+
+
